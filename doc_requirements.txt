@@ -1,4 +1,4 @@
 mock
 numpydoc
 sphinx_rtd_theme
-sphinx=1.5.6
+sphinx==1.5.6
